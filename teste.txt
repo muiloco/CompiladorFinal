@@ -1,0 +1,6 @@
+leia x ; 
+leia y ; 
+z = x ^ y ; 
+z = z - 8 ; 
+w = ( x * z ) % ( y / x ) ;
+escreva w ;
